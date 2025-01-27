@@ -6,12 +6,14 @@ layout: home
 ---
 <div id="main">
     <div class="inner">
-        <header>
+        <header id="hero">
             <h1>
                 Gregor Panič
             </h1>
+            <h2>Game Designer</h2>
             <p>Experienced game designer with a technical background. I can turn high level concepts into practical technical designs that can be prototyped and evaluated. I have the technical knowledge to communicate between creative and engineering and come up with viable and creative solutions to challenges. I’m comfortable being hands-on - implementing designs in various engines and tools. I have experience designing gameplay, levels, systems and game AI.</p>
         </header>
+        <h2>Projects</h2>
         <section class="tiles">
             <article class="style2">
                 <span class="image">

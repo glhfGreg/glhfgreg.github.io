@@ -3328,3 +3328,24 @@ input, select, textarea {
 			}
 
 		}
+
+#hero > h1 {
+	margin: 0;
+	font-size: 300%;
+}
+
+#hero > h2 {
+	text-transform: none;
+	letter-spacing: normal;
+	color: #f2849e;
+	font-size: 150%;
+	font-weight: normal;
+}
+
+h2:has(+ .tiles) {
+	margin-bottom: -1em;
+}
+
+h2 + .tiles {
+	margin-top: 0;
+}
