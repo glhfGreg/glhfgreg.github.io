@@ -3349,3 +3349,13 @@ h2:has(+ .tiles) {
 h2 + .tiles {
 	margin-top: 0;
 }
+
+.yt_container {
+    display: flex;
+    justify-content: center;
+}
+    
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+}
