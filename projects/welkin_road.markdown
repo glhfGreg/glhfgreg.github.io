@@ -5,7 +5,7 @@ layout: default
     <div class="inner">
         <h1>Welkin Road</h1>
         <div class="row gtr-50">
-                <div class="col-7"><span class="image fit"><img src="images/welkin_road/screen_01.jpg" alt=""></span></div>
+                <div class="col-7"><span class="image fit"><img src="/images/welkin_road/screen_01.jpg" alt=""></span></div>
                 <div class="col-5 info-box">
                     <div class="title">Type</div>
                     <div class="info">Solo project</div>
@@ -31,12 +31,12 @@ layout: default
         <h2>Screenshots</h2>
         <div class="box alt">
             <div class="row gtr-50">
-                <div class="col-6 col-12-medium"><span class="image fit"><img src="images/welkin_road/screen_02.jpg" alt=""></span></div>
-                <div class="col-6 col-12-medium"><span class="image fit"><img src="images/welkin_road/screen_03.jpg" alt=""></span></div>
-                <div class="col-6 col-12-medium"><span class="image fit"><img src="images/welkin_road/screen_04.jpg" alt=""></span></div>
-                <div class="col-6 col-12-medium"><span class="image fit"><img src="images/welkin_road/screen_05.jpg" alt=""></span></div>
-                <div class="col-6 col-12-medium"><span class="image fit"><img src="images/welkin_road/screen_06.jpg" alt=""></span></div>
-                <div class="col-6 col-12-medium"><span class="image fit"><img src="images/welkin_road/screen_07.jpg" alt=""></span></div>
+                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/welkin_road/screen_02.jpg" alt=""></span></div>
+                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/welkin_road/screen_03.jpg" alt=""></span></div>
+                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/welkin_road/screen_04.jpg" alt=""></span></div>
+                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/welkin_road/screen_05.jpg" alt=""></span></div>
+                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/welkin_road/screen_06.jpg" alt=""></span></div>
+                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/welkin_road/screen_07.jpg" alt=""></span></div>
             </div>
         </div>
     </div>

@@ -11,9 +11,13 @@ layout: home
                 Gregor Panič
             </h1>
             <h2>Game Designer</h2>
-            <p>Experienced game designer with a technical background. I can turn high level concepts into practical technical designs that can be prototyped and evaluated. I have the technical knowledge to communicate between creative and engineering and come up with viable and creative solutions to challenges. I’m comfortable being hands-on - implementing designs in various engines and tools. I have experience designing gameplay, levels, systems and game AI.</p>
+            <p>Experienced game designer with a technical background. I can turn high level concepts into practical
+                technical designs that can be prototyped and evaluated. I have the technical knowledge to communicate
+                between creative and engineering and come up with viable and creative solutions to challenges. I’m
+                comfortable being hands-on - implementing designs in various engines and tools. I have experience
+                designing gameplay, levels, systems and game AI.</p>
         </header>
-        <h2>Projects</h2>
+        <h2>Featured Projects</h2>
         <section class="tiles">
             <article class="style2">
                 <span class="image">
@@ -30,25 +34,40 @@ layout: home
                 <span class="image">
                     <img src="images/amnesia_rebirth/ar_thumbnail.jpg" alt="">
                 </span>
-                <a href="generic.html">
+                <a href="/projects/amnesia_rebirth.html">
                     <h2>Amnesia: Rebirth</h2>
                     <div class="content">
-                        <p>A first person horror adventure. Uncover your past and survive the Algerian desert. Fear is your enemy.</p>
+                        <p>A first person horror adventure. Uncover your past and survive the Algerian desert. Fear is
+                            your enemy.</p>
                     </div>
                 </a>
             </article>
             <article class="style3">
                 <span class="image">
+                    <img src="images/soma/soma_thumbnail.jpg" alt="">
+                </span>
+                <a href="generic.html">
+                    <h2>SOMA</h2>
+                    <div class="content">
+                        <p>A sci-fi horror game set below the waves of the Atlantic ocean.</p>
+                    </div>
+                </a>
+            </article>
+            <article class="style4">
+                <span class="image">
                     <img src="images/welkin_road/wr_thumbnail.jpg" alt="">
                 </span>
-                <a href="welkin_road">
+                <a href="/projects/welkin_road">
                     <h2>Welkin Road</h2>
                     <div class="content">
                         <p>First person parkour platformer with grappling hooks.</p>
                     </div>
                 </a>
             </article>
-            <article class="style4">
+        </section>
+        <h2>Game Jam Projects</h2>
+        <section class="tiles">
+            <article class="style5">
                 <span class="image">
                     <img src="images/mano/mano_thumbnail.jpg" alt="">
                 </span>
@@ -59,18 +78,19 @@ layout: home
                     </div>
                 </a>
             </article>
-            <article class="style5">
+            <article class="style6">
                 <span class="image">
                     <img src="images/stagehand/stagehand_thumbnail.jpg" alt="">
                 </span>
                 <a href="stagehand">
                     <h2>Stagehand</h2>
                     <div class="content">
-                        <p>You play the lead role in a 80s sit-com, trying to use slapstick humor to make the audience laugh.</p>
+                        <p>You play the lead role in a 80s sit-com, trying to use slapstick humor to make the audience
+                            laugh.</p>
                     </div>
                 </a>
             </article>
-            <article class="style6">
+            <article class="style1">
                 <span class="image">
                     <img src="images/almighty_dice/dice_thumbnail.jpg" alt="">
                 </span>
