@@ -28,7 +28,7 @@ layout: default
             <li>Worked closely with the creative lead to define the vision for NPCs. Set high level goals and scope for
                 the area and was responsible for maintaining a roadmap for implementation - from prototype to final
                 version.</li>
-            <li>Collaborated on the design for a systemic living world with emergent events.</li>
+            <li>Collaborated on the design for a systemic, living world with emergent events.</li>
             <li>Designed an AI director system that provides challenge for players.</li>
             <li>Conducted interviews to help with hiring game designers.</li>
             <li>Implemented several AI behaviors using Rust in a custom engine.</li>
