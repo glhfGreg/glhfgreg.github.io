@@ -37,6 +37,8 @@ layout: default
         <h2>Screenshots</h2>
         <div class="box alt">
             <div class="row gtr-50">
+                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/wim/screen_06.jpg"
+                    alt=""></span></div>
                 <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/wim/anim_01.gif"
                             alt=""></span></div>
                 <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/wim/anim_02.gif"
@@ -50,8 +52,6 @@ layout: default
                 <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/wim/screen_02.jpg"
                             alt=""></span></div>
                 <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/wim/screen_04.jpg"
-                            alt=""></span></div>
-                <div class="col-6 col-12-medium"><span class="image fit"><img src="/images/wim/screen_05.jpg"
                             alt=""></span></div>
             </div>
         </div>
