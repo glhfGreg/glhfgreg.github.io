@@ -11,22 +11,22 @@ layout: home
                 Gregor Panič
             </h1>
             <h2>Game Designer</h2>
-            <p>Experienced game designer with a technical background. I can turn high level concepts into practical
-                technical designs that can be prototyped and evaluated. I have the technical knowledge to communicate
-                between creative and engineering and come up with viable and creative solutions to challenges. I’m
-                comfortable being hands-on - implementing designs in various engines and tools. I have experience
+            <p>Experienced game designer with a technical background. <b>I turn high level concepts into practical
+                technical designs</b> that can be prototyped and evaluated. I have the technical knowledge to communicate
+                between creative and engineering and come up with viable and creative solutions to challenges. <b>I’m
+                comfortable being hands-on</b> - implementing designs in various engines and tools. I have experience
                 designing gameplay, levels, systems and game AI.</p>
         </header>
-        <h2>Featured Projects</h2>
+        <h2>Games</h2>
         <section class="tiles">
             <article class="style2">
                 <span class="image">
                     <img src="images/wim/wim_thumbnail.jpg" alt="">
                 </span>
-                <a href="generic.html">
+                <a href="/projects/wim.html">
                     <h2>wim</h2>
                     <div class="content">
-                        <p>A creative playground. Unannounced project.</p>
+                        <p>A creative playground. Work in progress.</p>
                     </div>
                 </a>
             </article>
@@ -46,7 +46,7 @@ layout: home
                 <span class="image">
                     <img src="images/soma/soma_thumbnail.jpg" alt="">
                 </span>
-                <a href="generic.html">
+                <a href="/projects/soma.html">
                     <h2>SOMA</h2>
                     <div class="content">
                         <p>A sci-fi horror game set below the waves of the Atlantic ocean.</p>
@@ -57,7 +57,7 @@ layout: home
                 <span class="image">
                     <img src="images/welkin_road/wr_thumbnail.jpg" alt="">
                 </span>
-                <a href="/projects/welkin_road">
+                <a href="/projects/welkin_road.html">
                     <h2>Welkin Road</h2>
                     <div class="content">
                         <p>First person parkour platformer with grappling hooks.</p>
@@ -71,7 +71,7 @@ layout: home
                 <span class="image">
                     <img src="images/mano/mano_thumbnail.jpg" alt="">
                 </span>
-                <a href="mano">
+                <a href="https://davidpdrsn.itch.io/mano">
                     <h2>OMG it's Mr.MANO!</h2>
                     <div class="content">
                         <p>Play as the famous Mr Mano and give the best high fives in the world!</p>
@@ -82,7 +82,7 @@ layout: home
                 <span class="image">
                     <img src="images/stagehand/stagehand_thumbnail.jpg" alt="">
                 </span>
-                <a href="stagehand">
+                <a href="https://glhfgreg.itch.io/stagehand">
                     <h2>Stagehand</h2>
                     <div class="content">
                         <p>You play the lead role in a 80s sit-com, trying to use slapstick humor to make the audience
@@ -94,7 +94,7 @@ layout: home
                 <span class="image">
                     <img src="images/almighty_dice/dice_thumbnail.jpg" alt="">
                 </span>
-                <a href="almighty_dice">
+                <a href="https://measuring.itch.io/almighty-dice">
                     <h2>Almighty Dice</h2>
                     <div class="content">
                         <p>A 1v1 competitive dice throwing game.</p>
