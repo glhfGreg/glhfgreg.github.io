@@ -4,7 +4,7 @@ layout: default
 <div id="main">
     <div class="inner">
         <h1>SOMA</h1>
-        <div class="row gtr-50">
+        <div class="row gtr-100">
             <div class="col-7"><span class="image fit"><img src="/images/soma/screen_01.jpg" alt=""></span></div>
             <div class="col-5 info-box">
                 <div class="title">Roles</div>
@@ -18,8 +18,7 @@ layout: default
                 <div class="title">Tools</div>
                 <div class="info">AngelScript, C++, HPL Level Editor, HPL Engine 3, SVN</div>
                 <div class="title">Steam</div>
-                <div class="info"><a
-                        href="https://store.steampowered.com/app/282140/SOMA/">https://store.steampowered.com/app/282140/SOMA/</a>
+                <div class="info"><a href="https://store.steampowered.com/app/282140">https://store.steampowered.com/app/282140</a>
                 </div>
             </div>
         </div>

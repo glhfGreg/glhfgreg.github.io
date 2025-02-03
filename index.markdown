@@ -7,15 +7,26 @@ layout: home
 <div id="main">
     <div class="inner">
         <header id="hero">
-            <h1>
-                Gregor Panič
-            </h1>
-            <h2>Game Designer</h2>
-            <p>Experienced game designer with a technical background. <b>I turn high level concepts into practical
-                technical designs</b> that can be prototyped and evaluated. I have the technical knowledge to communicate
-                between creative and engineering and come up with viable and creative solutions to challenges. <b>I’m
-                comfortable being hands-on</b> - implementing designs in various engines and tools. I have experience
-                designing gameplay, levels, systems and game AI.</p>
+            <div class="box alt">
+                <div class="row gtr-150">
+                    <div class="col-12 gtr-uniform">
+                        <h1 class="hi">Hi!</h1>
+                    </div>
+                </div>
+                <div class="row gtr-150 aln-center">
+                    <div class="col-8 col-12-small">
+                        <h1>I'm <span class="name">Gregor Panič</span>, an experienced game designer with a technical background. I love to create playful experiences that evoke strong emotions.</h1>
+                    </div>
+                    <div id="avatar" class="col-4">
+                        <span class="image fit">
+                            <img src="/images/avatar.png" alt="">
+                        </span>
+                    </div>
+                </div>
+                <div class="row gtr-150">
+                    <h2>Want to connect? Send me an <a href="mailto:gregor.panic@gmail.com">email</a>!</h2>
+                </div>
+            </div>
         </header>
         <h2>Games</h2>
         <section class="tiles">

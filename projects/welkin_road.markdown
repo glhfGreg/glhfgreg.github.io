@@ -4,7 +4,7 @@ layout: default
 <div id="main">
     <div class="inner">
         <h1>Welkin Road</h1>
-        <div class="row gtr-50">
+        <div class="row gtr-100">
             <div class="col-7"><span class="image fit"><img src="/images/welkin_road/screen_01.jpg" alt=""></span></div>
             <div class="col-5 info-box">
                 <div class="title">Roles</div>
@@ -18,8 +18,7 @@ layout: default
                 <div class="title">Tools</div>
                 <div class="info">Unity, C#, Blender, Sculptris, Photoshop, Git</div>
                 <div class="title">Steam</div>
-                <div class="info"><a
-                        href="http://store.steampowered.com/app/432720/">http://store.steampowered.com/app/432720/</a>
+                <div class="info"><a href="http://store.steampowered.com/app/432720">http://store.steampowered.com/app/432720</a>
                 </div>
             </div>
         </div>

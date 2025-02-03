@@ -4,7 +4,7 @@ layout: default
 <div id="main">
     <div class="inner">
         <h1>wim</h1>
-        <div class="row gtr-50">
+        <div class="row gtr-100">
             <div class="col-7"><span class="image fit"><img src="/images/wim/screen_01.jpg" alt=""></span></div>
             <div class="col-5 info-box">
                 <div class="title">Roles</div>

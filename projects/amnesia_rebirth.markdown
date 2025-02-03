@@ -4,7 +4,7 @@ layout: default
 <div id="main">
     <div class="inner">
         <h1>Amnesia: Rebirth</h1>
-        <div class="row gtr-50">
+        <div class="row gtr-100">
             <div class="col-7"><span class="image fit"><img src="/images/amnesia_rebirth/screen_01.jpg" alt=""></span>
             </div>
             <div class="col-5 info-box">
@@ -20,7 +20,7 @@ layout: default
                 <div class="info">AngelScript, C++, HPL Level Editor, HPL Engine 3.5, Photoshop, SVN</div>
                 <div class="title">Steam</div>
                 <div class="info"><a
-                        href="https://store.steampowered.com/app/999220/Amnesia_Rebirth/">https://store.steampowered.com/app/999220/Amnesia_Rebirth/</a>
+                        href="https://store.steampowered.com/app/999220">https://store.steampowered.com/app/999220</a>
                 </div>
             </div>
         </div>
