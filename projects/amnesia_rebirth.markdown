@@ -33,7 +33,7 @@ layout: default
             level adhere to the original vision. A big part of the process was <b>maintaining the tone and feel of the
                 level on a holistic level</b>, without getting fixiated on mechanics and other details. <b>My personal
                 highlight</b> was creating the Living Quarters level, which can be seen in this <b><a
-                    href="https://youtu.be/q0P9Hk16M4w">playthough video</a></b>.</p>
+                    href="https://youtu.be/EisP3UQXx8o">playthough video</a></b>.</p>
         <p>I designed and programmed <b>two main enemies in the game</b>: the ghoul and the wraith. The ghoul is a
             predator that hides in the dark and hunts the player using scent, while the wraith is a guardian that uses
             its light beam to pin down the player. The player is required to use different problem solving skills to
@@ -44,6 +44,15 @@ layout: default
             distubring events, being attacked by monsters increases Tasi's fear and leaves her with permanent effects
             that change the course of the game.</p>
         <p>Additional contributions include systems design and programming.</p>
+        <h2>Level design breakdown</h2>
+        <div class="box alt">
+            <div class="row aln-center gtr-uniform">
+                <iframe class="yt_container" src="https://www.youtube.com/embed/oJjeIBH2i8k"
+                    title="Designing the space for a monster encounter - Amnesia: Rebirth" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
         <h2>Trailer</h2>
         <div class="box alt">
             <div class="row aln-center gtr-uniform">
